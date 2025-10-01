@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="tyyli.css">
+    </head>
+    <body>
+        <h1>Jasper Järvinen viikkoaikataulu</h1>
+        <table>
+            </tr>
+            <tr>
+                <th>aika</th>
+                <th>maanantai</th>
+                <th>tiistai</th>
+                <th>keskiviikko</th>
+                <th>torstai</th>
+                <th>perjantai</th>
+            </tr>
+            <tr>
+                <td>8-10</td>
+                <td id="moi"> ohjelmointi</td>
+                <td id="moi"> ohjelmointi</td>
+                <td id="moi"> ohjelmointi</td>
+                <td id="moi"> ohjelmointi</td>
+                <td id="moi"> ohjelmointi</td>
+            </tr>
+            <tr>
+                <td>10-12</td>
+                <td id="Hei">matikka</td>
+                <td id="Hei">matikka</td>
+                <td id="Hei">matikka</td>
+                <td id="Hei">matikka</td>
+                <td id="Hei">matikka</td>
+            </tr>
+            <tr>
+                <td>12-14</td>
+                <td id="aa">kuntosali</td>
+                <td id="aa">kuntosali</td>
+                <td id="aa">kuntosali</td>
+                <td id="aa">kuntosali</td>
+                <td id="aa">kuntosali</td>
+            </tr>
+            <tr>
+                <td>14-16</td>
+                <td id="yalla">Vapaa</td>
+                <td id="yalla">vapaa</td>
+                <td id="yalla">Vapaa</td>
+                <td id="yalla">Vapaa</td>
+                <td id="yalla">Vapaa</td>
+            </tr>
+    </body>
