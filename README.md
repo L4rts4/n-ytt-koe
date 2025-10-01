@@ -1,2 +1,2 @@
-# n-ytt-koe
+# nayttokoe
 Näyttökoe koulu
