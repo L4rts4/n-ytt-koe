@@ -1,0 +1,35 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+    th, td {
+        padding: 20px;
+        text-align: middle;
+    }
+    th {
+        background-color: #929292;
+    }
+    #moi {
+    text-align: center;
+    color: #ffffff;
+    background-color: #cce0ff;
+    padding: 10px;
+    }   
+    #Hei {
+    text-align: center;
+    color: #000000;
+    background-color: #cce0ff;
+    padding: 10px;
+    }   
+    #yalla {
+        text-align: center;
+        color: #000000;
+        background-color: #d6f5d6;
+        padding: 10px;
+        }   
+        #aa {
+            text-align: center;
+            color: #ffffff;
+            background-color: #707e70;
+            padding: 10px;
+            }   
